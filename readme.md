@@ -7,8 +7,9 @@ In this paper, we present a compact yet effective convolutional neural network (
 
 <img src="Dataset/Data.png" width="100%" height="100%">
 
-###Implementations
+### Implementations
 Caffe: https://github.com/BVLC/caffe
+
 SqueezeNet: https://github.com/DeepScale/SqueezeNet
 
 
