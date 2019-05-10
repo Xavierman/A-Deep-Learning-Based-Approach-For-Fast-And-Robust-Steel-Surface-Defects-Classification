@@ -10,8 +10,10 @@ The enhanced dataset is build on NEU dataset:
 A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects
 neural networks |  |[`[Download]`](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html)
 
-The enhanced dataset can be download at 
+
 <img src="Dataset/Data.png" width="100%" height="100%">
+
+The enhanced dataset can be download at 
 
 ### Implementations
 This code is based on Caffe. Thanks to the contributors of Caffe.
