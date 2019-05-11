@@ -2,6 +2,8 @@
 
 By  Guizhong Fu, Peize Sun, Wenbin Zhu, Jiangxin Yang, Yanlong Cao, Michael Ying Yang and Yanpeng Cao.
 
+The paper will be available at  |[`[Optics and Lasers in Engineering]`](https://www.journals.elsevier.com/optics-and-lasers-in-engineering/)
+
 ### Introduction
 In this paper, we present a compact yet effective convolutional neural network (CNN) model, which emphasizes the training of low-level features and incorporates multiple receptive fields, to achieve fast and accurate steel surface defect classification.Our proposed method adopts the pre-trained SqueezeNet as the backbone architecture.We also construct a diversity-enhanced testing dataset of steel surface defects to evaluate the robustness of classification models. The dataset contains severe camera noise, non-uniform illumination, and motion blur.
 
@@ -13,7 +15,12 @@ neural networks |  |[`[Download]`](http://faculty.neu.edu.cn/me/songkc/Vision-ba
 
 <img src="Dataset/Data.png" width="100%" height="100%">
 
-The enhanced dataset can be download at 
+
+The enhanced dataset can be download at:
+
+Google Drive: https://drive.google.com/file/d/16HjqGvnr_OUfTF0HSN1XyNg9XPr4Edfw/view?usp=sharing
+
+Baidu Cloud: https://pan.baidu.com/s/18OowNbcJmBIi92fTWKI2wg  Password：fcmh 
 
 ### Implementations
 This code is based on Caffe. Thanks to the contributors of Caffe.
